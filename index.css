@@ -1,0 +1,15 @@
+html, body, div, canvas{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,body,.wrap,#canvas{
+  width: 100%;
+  height: 100%;
+}
+
+.wrap{
+  min-width: 960px;
+  background: black;
+}
